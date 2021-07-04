@@ -1,0 +1,262 @@
+#EXTM3U
+#EXTINF:0,Kurdsat
+#EXTGRP:Without category
+http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
+#EXTINF:0,NRT TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
+#EXTINF:0,NRT HD2 ئێن ئاڕ تی ٢
+#EXTGRP:Without category
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
+#EXTINF:0,7000 Channels
+#EXTGRP:Without category
+http://51.222.24.161/video_2021-03-08_22-37-02.mp4
+#EXTINF:0,Like MOVIES HD
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Local_LikeMoviesHD/playlist.m3u8
+#EXTINF:0,Rudaw HD ڕوداو 
+#EXTGRP:Without category
+http://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:0,Net TV HD
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/39
+#EXTINF:0,kurdsat news
+#EXTGRP:Without category
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:0,Derin tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Derin/chunklist_w64475051.m3u8
+#EXTINF:0,K 24 HD کوردوستان ٢٤
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
+#EXTINF:0,One tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/One_HD/chunklist_w1326465048.m3u8
+#EXTINF:0,4KURD
+#EXTGRP:Without category
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:0,AVA TV HD
+#EXTGRP:Without category
+http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8
+#EXTINF:0,KURDMAX MUSIC HD
+#EXTGRP:Without category
+http://31.14.40.139:1935/music/livestream/chunklist_w458527724.m3u8?nimblesessionid=574377&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE5IDk6MjA6MDggUE0maGFzaF92YWx1ZT03b3l6ZVNqNkhteDB5cXRJODF4VVVnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,KURDMAX HD+ KUR کوردماکس  کرمانجی
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/30
+#EXTINF:0,Kurdmax Show Kurmanji کوردماکس کرمانجی
+#EXTGRP:Without category
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kurdish/856ccf2463dffe6.m3u8
+#EXTINF:0,KURDMAX HD+ SOR کوردماکس سۆرانی
+#EXTGRP:Without category
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/chunklist_w1080025141_b1667072.m3u8?wowzacaptionlanguages=fra
+#EXTINF:0,KURDMAX SHOW HD sor
+#EXTGRP:Without category
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/32.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GK TV گەلی کوردوستان
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/37
+#EXTINF:0,Barin TV
+#EXTGRP:Without category
+http://baskhd.ddns.net:40/live/Barinhd/playlist.m3u8
+#EXTINF:0,Barin quran
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/BarinQuraNbhD/playlist.m3u8
+#EXTINF:0,Barin sport
+#EXTGRP:Without category
+http://baskhd.ddns.net:40/live/BarinSPORTHD/playlist.m3u8
+#EXTINF:0,Euro kurd
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Eurokurd/playlist.m3u8
+#EXTINF:0,SUPER TV HD
+#EXTGRP:Without category
+https://video1.getstreamhosting.com:1936/8906/8906/chunklist_w1717782098.m3u8
+#EXTINF:0,Chaw tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/chawhd/playlist.m3u8
+#EXTINF:0,Gihan tv HD جیهان تیڤی
+#EXTGRP:Without category
+http://liveshell.net:1935/live/cihann/chunklist_w1328737716.m3u8
+#EXTINF:0,AFV HD
+#EXTGRP:Without category
+https://linear-12.frequency.stream/12/hls/master/cupertino12_720p_3000000/chunklist.m3u8
+#EXTINF:0,KOG tv
+#EXTGRP:Without category
+http://kurdistanoilandgashd.com:1935/hls/OIL/chunklist_w1211676687.m3u8
+#EXTINF:0,Soz tv HD سۆز تیڤی
+#EXTGRP:Without category
+http://51.79.73.38:1935/SOZMOVIES/SOZMOVIES/playlist.m3u8
+#EXTINF:0,Soz Quran HD
+#EXTGRP:Without category
+http://51.79.73.38:1935/sozquran/sozquran/playlist.m3u8
+#EXTINF:0,Halow sport tv
+#EXTGRP:Without category
+http://halowtv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
+#EXTINF:0,Kurdistan sport
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/kurdistansporthd/chunklist_w1601216232.m3u8
+#EXTINF:0,Sports HD
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/sportshd/playlist.m3u8
+#EXTINF:0,Kurd Cinema
+#EXTGRP:Without category
+http://iptvtree.net:8080/live/Ernan/5d1150ff/194945.m3u8
+#EXTINF:0,Speda HD
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/49
+#EXTINF:0,NRT4 HD ئێن ئاڕ تی ٤
+#EXTGRP:Without category
+http://185.177.126.61:8080/bar7635/index.m3u8
+#EXTINF:0,Never tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/neverhd/chunklist_w1265352796.m3u8
+#EXTINF:0,KURD TV کورد تی ڤی
+#EXTGRP:Without category
+https://server5.ikomg.com/hls/kurd.m3u8
+#EXTINF:0,Aala tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/alatvlockal/chunklist_w35137710.m3u8
+#EXTINF:0,Nubar Tv
+#EXTGRP:Without category
+http://krdstream.com/Nubar-TVHDKRD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Denge zelal tv
+#EXTGRP:Without category
+http://dengezelaltv65.ozelip.com:26516/denge/denge/playlist.m3u8
+#EXTINF:0,Rubar HD
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/RUBARHD/chunklist_w161310963.m3u8
+#EXTINF:0,Duhok tv
+#EXTGRP:Without category
+http://duhoktvstream.top:1935/live/DuhokTV/playlist.m3u8
+#EXTINF:0,STERK TV HD
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/24
+#EXTINF:0,RONAHI TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/26
+#EXTINF:0,ÇİRA TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/25
+#EXTINF:0,Ezidxan TV 
+#EXTGRP:Without category
+http://newuserclient.live:8080/qMuQqbv4uv/PBS0uCxdyf/24165
+#EXTINF:0,Whys TV
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/whys/chunklist_w64472288.m3u8
+#EXTINF:0,NRT HD3 ئێن ئاڕ تی ٣
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
+#EXTINF:0,ZAROK TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
+#EXTINF:0,SEMA TV HD سیما تی ڤی
+#EXTGRP:Without category
+https://shingaliptv.ru.com/Sema/tv/index.m3u8
+#EXTINF:0,TRT kurdi تی ئاڕ تی کوردی
+#EXTGRP:Without category
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,Med Muzîk میدیا موسیک
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/29
+#EXTINF:0,Kurdistan tv HD کوردوستان تی ڤی
+#EXTGRP:Without category
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,Rasan tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/rasan-hd/chunklist_w78774893.m3u8
+#EXTINF:0,Zagros
+#EXTGRP:Without category
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,Afarin Kids HD ئافەرین منداڵان
+#EXTGRP:Without category
+http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:0,ARYEN TV ئارین تی ڤی
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/47
+#EXTINF:0,SAHAR KURDI سەحەر کوردی
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
+#EXTINF:0,SEMA TV HD سیما تیڤی
+#EXTGRP:Without category
+https://shingaliptv.ru.com/Sema/tv/index.m3u8
+#EXTINF:0,Mtbamoki. Tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist_w1102162272.m3u8
+#EXTINF:0,Bask tv
+#EXTGRP:Without category
+http://62.201.232.103:40/live/baskhd/chunklist_w2102768676.m3u8
+#EXTINF:0,Sherwani tv
+#EXTGRP:Without category
+http://baskhd.ddns.net:40/live/SherwaniTV/playlist.m3u8
+#EXTINF:0,Renma tv
+#EXTGRP:Without category
+http://62.201.232.103:40/live/Renma/chunklist_w740488221.m3u8
+#EXTINF:0,Komall TV
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Komall_HDTV/chunklist_w1878383701.m3u8
+#EXTINF:0,Istar Quran
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Istar_Quran_Local/chunklist_w539143512.m3u8
+#EXTINF:0,Tasawf HD
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/tasawfhd/chunklist_w431549479.m3u8
+#EXTINF:0,Srusht tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Srushttvhd/playlist.m3u8
+#EXTINF:0,Xezan HD
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/xezanhd/chunklist_w1569753834.m3u8
+#EXTINF:0,Jude tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/jude/chunklist_w1329529866.m3u8
+#EXTINF:0,Arifan tv
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/ArifanHD/chunklist_w1824412601.m3u8
+#EXTINF:0,Baha HD
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/Local_Baha_HD/chunklist_w1244915047.m3u8
+#EXTINF:0,IMK TV HD
+#EXTGRP:Without category
+http://62.201.232.103:40/live/imkhd/chunklist_w991306023.m3u8
+#EXTINF:0,QURAN TV  قورعان تیڤی
+#EXTGRP:Without category
+http://m.live.net.sa:1935/live/quran/chunklist_w231772997.m3u8
+#EXTINF:0,SPEDA TV HD سپێدە تیڤی
+#EXTGRP:Without category
+http://liveshell.net:1935/live/%20speda084k/chunklist_w600579757.m3u8
+#EXTINF:0,PAYAM TV HD
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/50
+#EXTINF:0,U2
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/local_Utv_2/chunklist_w290611752.m3u8
+#EXTINF:0,WAAR TV HD+
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/52
+#EXTINF:0,MINBIJ TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
+#EXTINF:0,JIN TV HD
+#EXTGRP:Without category
+https://live.jintv.org:12443/medialive/jintv.m3u8
+#EXTINF:0,ROJAVA TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
+#EXTINF:0,BABYLON TV HD
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
+#EXTINF:0,LALISH TV
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/57
+#EXTINF:0,Aryen tv
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/47
+#EXTINF:0,KIRKUK TV کەرکوک تیڤی
+#EXTGRP:Without category
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
+#EXTINF:0,Halabja HD هەڵەبجە
+#EXTGRP:Without category
+http://baskhd1.ddns.net:40/live/halabjatv/chunklist_w748600366.m3u8
+#EXTINF:0,
+#EXTGRP:
+
